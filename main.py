@@ -1,3 +1,5 @@
 print("Hello World")
 print("Hi Kamil")
 print("Hello Kamil")
+print("Imashev Kamil")
+print("ghtbigbrl")
